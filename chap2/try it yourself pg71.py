@@ -15,3 +15,6 @@ print('Rick Sanchez once said "I turned myself into a pickle, Morty! I’m Pickl
 famousPerson = 'Rick Sanchez'
 
 print(f'{famousPerson} once said "I turned myself into a pickle, Morty! I’m Pickle Ri-i-i-ick!"')
+
+#2-7
+name = '\tGianluca \nPslms'
